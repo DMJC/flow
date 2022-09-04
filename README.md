@@ -1,5 +1,4 @@
-# flow
-Flow a GNUstep desktop environment
+# Flow a GNUstep desktop environment
 
 Flow is designed to be an apple-like desktop environment. With a focus on providing useful mac-os like functionality on Linux. The plan is to build on GNUstep and implement a working desktop environment. Where possible, keeping to the Cocoa API.
 
