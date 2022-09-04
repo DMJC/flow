@@ -10,7 +10,7 @@ Theme:
 Implement a port of the Mac OSX theme Milk to GNustep.
 
 Update System Preferences.app to include plugins for:
-- Xrandr
+- Randr
 - Pipewire
 - Network-Manager
 
