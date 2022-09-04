@@ -6,6 +6,9 @@ Design Philospohy:
 The desktop UI will be based around the NSMacintoshMenuStyle and the eToileMenuServer code with plans to integrate more deeply with the Window Manager.
 
 Plans:
+Theme:
+Implement a port of the Mac OSX theme Milk to GNustep.
+
 Update System Preferences.app to include plugins for:
 - Xrandr
 - Pipewire
